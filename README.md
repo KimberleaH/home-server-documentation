@@ -1,7 +1,7 @@
 **Note**
 
 I beg your finest pardon. This documentation is a chaotic mess.
-Everything——except for building the rig——is something I've not done before. I've documented my process while learning as I go. :)
+Everything—except for building the rig—is something I've not done before. I've documented my process while learning as I go. :)
 
 I got the server put together 3/6/2026 and have been gradually getting things up and running since.
 
