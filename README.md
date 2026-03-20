@@ -45,6 +45,7 @@ I got the server put together 3/6/2026 and have been gradually getting things up
 	- [ ] Add shows
 	- [ ] Connect to TV app
 - [ ] NextCloud
+- [ ] Scheduled auto wake up + power off/suspend
 - [ ] Wireguard + Cloudflare tunneling (try self-hosting a VPN)
 
 ---
