@@ -1,4 +1,5 @@
 **Note**
+
 I beg your finest pardon. This documentation is a chaotic mess.
 Everything——except for building the rig——is something I've not done before. I've documented my process while learning as I go. :)
 
@@ -48,15 +49,15 @@ I got the server put together 3/6/2026 and have been gradually getting things up
 ---
 
 ## Server Specs
-CPU: Intel Core i5-12600K
-Memory: G.SKILL Ripjaws V Series 16GB (2 x 8GB) DDR4 3200
-Mobo: MSI PRO B760M-P LGA 1700 mATX DDR4 (no onboard wifi/bluetooth)
-Boot: Samsung 990 Evo Plus 1TB
-RAID1: Seagate 4TB IronWolf 5400 rpm SATA 3 NAS HDD - two of these for a total of 4TB of storage
-PSU: Corsair RM750x Gold Certified
-CPU Cooler: Peerless Assassin 120mm
-Case: Asus AP201 Mesh mATX
-Misc: Cat 6 Ethernet cable, be quiet! 120mm case fans
+- CPU: Intel Core i5-12600K
+- Memory: G.SKILL Ripjaws V Series 16GB (2 x 8GB) DDR4 3200
+- Mobo: MSI PRO B760M-P LGA 1700 mATX DDR4 (no onboard wifi/bluetooth)
+- Boot: Samsung 990 Evo Plus 1TB
+- RAID1: Seagate 4TB IronWolf 5400 rpm SATA 3 NAS HDD - two of these for a total of 4TB of storage
+- PSU: Corsair RM750x Gold Certified
+- CPU Cooler: Peerless Assassin 120mm
+- Case: Asus AP201 Mesh mATX
+- Misc: Cat 6 Ethernet cable, be quiet! 120mm case fans
 
 **Thing to come back to:** I kinda...have my HDDs sitting on top of each other because the case's 3.5" drive placements were weird and conflicted with the rest of the components. The drive bay from my Cirus ATX build didn't quite fit, so I'll be getting a smaller drive bay for tidiness.
 
