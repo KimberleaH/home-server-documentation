@@ -8,20 +8,21 @@ I got the server put together 3/6/2026 and have been gradually getting things up
 ---
 
 ## Table of Contents
-1. Setup Checklist
-2. Server Specs
-3. Referenced Material
-4. Getting Started
-5. Set Up RAID1 for Redundancy
-6. Adjust fan settings
-7. Installing and Configuring Docker
-8. Create Containers in Docker
-9. Add Node_Exporter And Configure Monitoring Stack
-10. Interlude
-11. Configure Pi Hole
-12. Configure JellyFin
-13. Configure NextCloud
-14. To be continued
+1. [Setup Checklist](#setup-checklist)
+2. [Server Specs](#server-specs)
+3. [Referenced Material](#referenced-material)
+4. [Getting Started](#getting-started)
+5. [Set Up RAID1 for Redundancy](#need-to-set-up-raid1)
+6. [Adjust fan settings](#adjust-fan-settings)
+7. [Installing and Configuring Docker](#installing-and-configuring-docker)
+   - [Jumped the Gun](#jumped-the-gun)
+8. [Create Containers in Docker](#create-containers-in-docker)
+9. [Add Node_Exporter And Configure Monitoring Stack](#add-node_exporter-and-configure-monitoring-stack)
+10. [Interlude](#interlude)
+11. [Configure Pi Hole](#configure-pi-hole)
+12. [Configure JellyFin](#configure-jellyfin)
+13. [Configure NextCloud](#configure-nextcloud)
+14. [To be continued](#to-be-continued)
 
 ---
 
@@ -88,6 +89,8 @@ Ubuntu is really quite clean! Boots up hella fast. Making me want to put my wind
 Ctrl + Alt + T opens the terminal
 
 sudo = admin privileges | if you don't include this at the beginning, the terminal may fuss about lack of permissions!
+
+---
 
 ## Need to set up RAID1
 
@@ -274,6 +277,7 @@ The outcome? I successfully created a new `raid1/archive` directory, removed `/m
 
 I'm getting this shit figured the fuck out! :)
 
+---
 
 ## Adjust fan settings
 
