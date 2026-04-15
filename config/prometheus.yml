@@ -1,0 +1,13 @@
+# File located in /home/docker-lab/prometheus
+
+global:
+  scrape_interval: 15s # Default scrape interval
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090'] # Target the Prometheus server
+      
+  - job_name: 'node'
+    static_configs:
+      - targets: ['node-exporter:9100'] # Target the node-exporter docker container
